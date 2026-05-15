@@ -1,1 +1,87 @@
-# financial-saas-retention-analysis
+# AI-Driven Customer Retention Framework for Financial SaaS Platforms
+
+## Project Overview
+This project explores how financial SaaS companies can proactively identify customer churn risks using behavioral, perceptual, and operational indicators.
+
+The project combines business analytics, customer retention strategy, and dashboard-driven insights to support CRM and Customer Success teams in reducing churn and improving long-term customer value.
+
+---
+
+## Business Problem
+Financial SaaS companies often rely on reactive customer retention strategies, responding only after dissatisfaction or churn signals become visible.
+
+Acquiring new customers is significantly more expensive than retaining existing ones. This project introduces an exploratory churn risk-scoring framework that helps organizations detect early churn indicators before customers leave.
+
+---
+
+## Dataset Structure
+This project uses a mixed-method research approach:
+
+- Quantitative survey data from 250 respondents
+- Qualitative insights from 8 semi-structured interviews
+
+Both datasets were analyzed independently and later integrated to identify customer behavior patterns, churn indicators, and retention-related insights.
+
+---
+
+## Key KPI Categories
+
+### Revenue & Growth Metrics
+- Revenue Retention Rate
+- Customer Lifetime Value (CLV)
+- Revenue at Risk
+
+### Churn & Risk Metrics
+- Churn Risk Score
+- Renewal Intention
+- Switching Intention
+
+### Usage & Engagement Metrics
+- Platform Usage Frequency
+- Feature Adoption
+- User Engagement Trends
+
+### Relationship & Support Metrics
+- CRM Satisfaction
+- Support Responsiveness
+- Customer Trust Indicators
+
+### Technical & Operational Metrics
+- System Reliability
+- Performance Satisfaction
+- Integration Experience
+
+---
+
+## Tools & Technologies
+- Power BI
+- SQL
+- Excel
+- Business Analytics
+- Customer Retention Analysis
+- Data Visualization
+
+---
+
+## Dashboard Structure
+1. Executive Overview
+2. Churn Risk Analysis
+3. Customer Engagement Insights
+4. CRM & Relationship Analysis
+5. Strategic Recommendations
+
+---
+
+## Business Value
+The project demonstrates how SaaS companies can shift from reactive customer retention strategies toward proactive and data-driven customer success management.
+
+---
+
+## Repository Structure
+
+- `/dashboard` → Power BI dashboard files
+- `/dataset` → Dataset documentation
+- `/screenshots` → Dashboard screenshots
+- `/insights` → Business insights & recommendations
+- `/presentation` → Presentation materials
+- `/sql` → SQL queries and scripts
