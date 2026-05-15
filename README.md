@@ -71,7 +71,9 @@ Both datasets were analyzed independently and later integrated to identify custo
 5. Strategic Recommendations
 
 ---
+## Dashboard Preview
 
+![Dashboard Preview](https://github.com/shivatajmir-ba/financial-saas-retention-analysis/blob/main/dashboard/dataset/screenshots/Screenshot%202026-03-04%20024334.jpg?raw=true)
 ## Business Value
 The project demonstrates how SaaS companies can shift from reactive customer retention strategies toward proactive and data-driven customer success management.
 
