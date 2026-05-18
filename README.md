@@ -6,6 +6,13 @@ This project explores how financial SaaS companies can proactively identify cust
 The project combines business analytics, customer retention strategy, and dashboard-driven insights to support CRM and Customer Success teams in reducing churn and improving long-term customer value.
 
 ---
+## Project Objectives
+
+- Identify early customer churn indicators in financial SaaS platforms
+- Explore relationships between customer behavior and retention risk
+- Support proactive CRM decision-making using data-driven insights
+- Demonstrate how analytics can improve customer retention strategies
+---
 
 ## Business Problem
 Financial SaaS companies often rely on reactive customer retention strategies, responding only after dissatisfaction or churn signals become visible.
@@ -52,6 +59,21 @@ Both datasets were analyzed independently and later integrated to identify custo
 - Integration Experience
 
 ---
+## Key Insights
+
+- Low platform engagement and declining feature adoption were strongly associated with increased churn intention.
+- CRM responsiveness and customer trust showed significant influence on renewal probability.
+- Customers reporting integration or performance issues demonstrated higher churn risk indicators.
+- Proactive monitoring of behavioral and relational indicators can support earlier customer retention interventions.
+---
+## Business Recommendations
+
+- Implement proactive churn monitoring dashboards for Customer Success teams.
+- Introduce early-warning indicators based on engagement and CRM interaction patterns.
+- Improve customer onboarding and feature adoption programs.
+- Strengthen CRM follow-up processes for high-risk customer segments.
+- Use KPI-driven customer segmentation to prioritize retention actions.
+---
 
 ## Tools & Technologies
 - Power BI
@@ -62,6 +84,18 @@ Both datasets were analyzed independently and later integrated to identify custo
 - Data Visualization
 
 ---
+## Business Analyst Skills Demonstrated
+
+- Business Process Analysis
+- KPI Definition & Monitoring
+- Stakeholder-Oriented Reporting
+- Data Interpretation & Insights
+- Dashboard Design
+- Root Cause Analysis
+- Strategic Recommendation Development
+- Data Visualization
+- ---
+
 
 ## Dashboard Structure
 1. Executive Overview
@@ -81,9 +115,11 @@ The project demonstrates how SaaS companies can shift from reactive customer ret
 
 ## Repository Structure
 
-- `/dashboard` → Power BI dashboard files
-- `/dataset` → Dataset documentation
-- `/screenshots` → Dashboard screenshots
-- `/insights` → Business insights & recommendations
-- `/presentation` → Presentation materials
-- `/sql` → SQL queries and scripts
+| Folder | Description |
+|---|---|
+| /dashboard | Power BI dashboard files |
+| /dataset | Dataset documentation |
+| /screenshots | Dashboard screenshots |
+| /insights | Business insights & recommendations |
+| /presentation | Presentation materials |
+| /sql | SQL queries and scripts |
